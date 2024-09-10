@@ -1,9 +1,9 @@
 ### Hola I'm Jaya Madala👋
 <h3 align="left">A passionate fullstack developer from India</h3>
 
-* 🔭 I’m currently working on Java, Cloud, Devops
+* 🔭 I’m currently working on Project Management
 * 👩‍🎓 Information Technology Management Graduate student at Indiana Weseleyan University
-* 💬 Ask me about any tech stuff related to Java & FullStack
+* 💬 Ask me about any tech stuff
 * 📫 How to reach me: email- jayamadala232000@gmail.com
 * 😄 Pronouns: She/her
 
